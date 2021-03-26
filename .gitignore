@@ -1,6 +1,9 @@
+# vscode
+.vscode
+
 # obj, bin
-obj/
-bin/
+bin
+obj
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
