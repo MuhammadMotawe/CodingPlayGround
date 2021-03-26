@@ -1,0 +1,16 @@
+/home/muhammad/Coding/CodingPlayGround/1-FibonacciNthNumber/CSharp/obj/Debug/net5.0/CSharp.csprojAssemblyReference.cache
+/home/muhammad/Coding/CodingPlayGround/1-FibonacciNthNumber/CSharp/obj/Debug/net5.0/CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/muhammad/Coding/CodingPlayGround/1-FibonacciNthNumber/CSharp/obj/Debug/net5.0/CSharp.AssemblyInfoInputs.cache
+/home/muhammad/Coding/CodingPlayGround/1-FibonacciNthNumber/CSharp/obj/Debug/net5.0/CSharp.AssemblyInfo.cs
+/home/muhammad/Coding/CodingPlayGround/1-FibonacciNthNumber/CSharp/obj/Debug/net5.0/CSharp.csproj.CoreCompileInputs.cache
+/home/muhammad/Coding/CodingPlayGround/1-FibonacciNthNumber/CSharp/bin/Debug/net5.0/CSharp
+/home/muhammad/Coding/CodingPlayGround/1-FibonacciNthNumber/CSharp/bin/Debug/net5.0/CSharp.deps.json
+/home/muhammad/Coding/CodingPlayGround/1-FibonacciNthNumber/CSharp/bin/Debug/net5.0/CSharp.runtimeconfig.json
+/home/muhammad/Coding/CodingPlayGround/1-FibonacciNthNumber/CSharp/bin/Debug/net5.0/CSharp.runtimeconfig.dev.json
+/home/muhammad/Coding/CodingPlayGround/1-FibonacciNthNumber/CSharp/bin/Debug/net5.0/CSharp.dll
+/home/muhammad/Coding/CodingPlayGround/1-FibonacciNthNumber/CSharp/bin/Debug/net5.0/ref/CSharp.dll
+/home/muhammad/Coding/CodingPlayGround/1-FibonacciNthNumber/CSharp/bin/Debug/net5.0/CSharp.pdb
+/home/muhammad/Coding/CodingPlayGround/1-FibonacciNthNumber/CSharp/obj/Debug/net5.0/CSharp.dll
+/home/muhammad/Coding/CodingPlayGround/1-FibonacciNthNumber/CSharp/obj/Debug/net5.0/ref/CSharp.dll
+/home/muhammad/Coding/CodingPlayGround/1-FibonacciNthNumber/CSharp/obj/Debug/net5.0/CSharp.pdb
+/home/muhammad/Coding/CodingPlayGround/1-FibonacciNthNumber/CSharp/obj/Debug/net5.0/CSharp.genruntimeconfig.cache
